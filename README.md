@@ -30,10 +30,10 @@ Portrait:
 
 ### Notes
 Describe any challenges encountered while building the app.
+
 I had some challenges that came with adding dependencies correctly at the beginning of the project. I was getting some errors associated with not having the correct dependencies, 
 and the API used didn't match up with the XML of Main Activity.
-I was also reading on documentation and found quite confusing when it came to understanding RecyclerView, Adapters, and how it all tied together. The resources provided by Codepath
-definitely helped!
+I was also reading on documentation and found quite confusing when it came to understanding RecyclerView, Adapters, and how it all tied together. The resources provided by Codepath definitely helped!
 
 ### Open-source libraries used
 
